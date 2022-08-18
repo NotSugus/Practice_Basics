@@ -1,4 +1,4 @@
 # Practice_Basics
-##Primer repositorio de practica para generar repositorios mas profesionales, subir archivos reproducibles, etc.
-
-Este es texto menos importante
+Primer repositorio de practica para generar repositorios mas profesionales, subir archivos reproducibles, etc.
+Aqui va la unica linea de codigo
+>print('hello world')
